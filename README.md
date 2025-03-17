@@ -4,9 +4,9 @@ Example solutions for https://www.reddit.com/r/golang/comments/1jcnqfi/how_the_h
 
 How to use:
 
-- download the example dataset
+- download the example dataset  
   ```curl -OL https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt```
-- run the benchmarks
+- run the benchmarks  
   ```go test -bench=. ./...```
 
 Example output:
